@@ -38,8 +38,8 @@
       <file leaf-file-name="news.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/news.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="23" lean-forward="false" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+            <state relative-caret-position="391">
+              <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -149,11 +149,6 @@
               <item name="therapy-box" type="b2602c69:ProjectViewProjectNode" />
               <item name="therapy-box" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="therapy-box" type="b2602c69:ProjectViewProjectNode" />
-              <item name="therapy-box" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -191,12 +186,12 @@
       <option name="presentableId" value="Default" />
       <updated>1516940524394</updated>
       <workItem from="1516940527812" duration="191000" />
-      <workItem from="1516946743538" duration="17619000" />
+      <workItem from="1516946743538" duration="17986000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17810000" />
+    <option name="totallyTimeSpent" value="18177000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
@@ -423,8 +418,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/news.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="23" lean-forward="false" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        <state relative-caret-position="391">
+          <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
           <folding />
         </state>
       </provider>
